@@ -1,2 +1,17 @@
 *.dSYM/
 .DS_Store
+level1-basics/calculator/main3
+level1-basics/guess-number/main1.3
+level1-basics/unit-converter/main1.2
+level2-strings-sort/my-string-functions/main2.1
+level2-strings-sort/bubble-sort/main2.2
+level2-strings-sort/palindrome/main2.3
+level3-dynamic-memory/dynamic-array/main3.1
+level3-dynamic-memory/growing-array/main3.2
+level3-dynamic-memory/matrix/main3.3
+level4-data-structures/student-system/mian4.1
+level4-data-structures/linked-list/main4.2
+level4-data-structures/stack/main4.3
+level5-embedded-concepts/bit-operations/main5.1
+level5-embedded-concepts/traffic-light-fsm/main5.2
+level5-embedded-concepts/ring-buffer/main5.3

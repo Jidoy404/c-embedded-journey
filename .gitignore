@@ -15,3 +15,8 @@ level4-data-structures/stack/main4.3
 level5-embedded-concepts/bit-operations/main5.1
 level5-embedded-concepts/traffic-light-fsm/main5.2
 level5-embedded-concepts/ring-buffer/main5.3
+level6-socket/clientTcp
+level6-socket/clientUdp
+level6-socket/echoServTcp
+level6-socket/echoServTcpselect
+level6-socket/echoServUdp
